@@ -3,6 +3,8 @@ let accountEmail="example.gmail.com";
 var accountPassword="12345";
 accountCity="jaipur";
 let accountState;
+var accountpassword;
+let accountEmail;
 
 //accountId=2; // not aalowed
 accountEmail="nbisht9090.gmail.com";

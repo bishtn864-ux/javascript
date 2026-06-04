@@ -14,3 +14,14 @@ let isLockedIn=1;
 let boolenIsLoggedIn=Boolean(isLockedIn);
 
 console.log(boolenIsLoggedIn);
+
+//1=>true ; 0=>false
+//""=>false
+//"hitesh"=>true
+
+
+//*************************operation  */
+
+let value=3;
+let negValue=-value;
+console.log(negValue);
